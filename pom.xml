@@ -39,6 +39,8 @@
   only if the new code is made subject to such option by the copyright
   holder.
 -->
+<!-- Portions Copyright [2018] Payara Foundation and/or affiliates -->
+
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>net.java</groupId>
@@ -48,7 +50,7 @@
 
     <groupId>org.glassfish.external</groupId>
     <artifactId>management-api</artifactId>
-    <version>3.2.1-b003.payara-p1-SNAPSHOT</version>
+    <version>3.2.1-b002.payara-p1</version>
     <packaging>jar</packaging>
 
     <name>management-api</name>
